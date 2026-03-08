@@ -14,8 +14,8 @@ Demais códigos estarão no repositório
 
 ##Tempo total: 6 horas
 
-##Total de Março: 6 horas
 
+##Total de Março: 6 horas
 
 ###06/03: Treinamento individual (3 horas)
 
