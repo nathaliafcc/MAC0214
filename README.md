@@ -24,4 +24,4 @@ Demais códigos estarão no repositório
 
 ### 13/03: Treinamento individual (4 horas)
 
-###14/03: [Codeforces Round 1086 (Div. 2)](https://codeforces.com/contest/2208) (2 horas)
+### 14/03: [Codeforces Round 1086 (Div. 2)](https://codeforces.com/contest/2208) (2 horas)
