@@ -12,10 +12,10 @@ Conta no AtCoder: [ndmi](https://atcoder.jp/users/ndmi)
 
 Demais códigos estarão no repositório 
 
-##  Tempo total: 7 horas 
+##  Tempo total: 13 horas 
 
 
-### Total de Março: 7 horas
+### Total de Março: 13 horas
 
 #### 06/03: Treinamento individual (4 horas)
 #### 08/03: [Codeforces Round 1085 (Div. 1 + Div. 2)](https://codeforces.com/contest/2207) (3 horas)
